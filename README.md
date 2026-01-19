@@ -2,25 +2,14 @@ This repository exists as a keepsake from my journey as a Computer Engineering (
 
 The projects, code, and experiments here reflect where I was at this stage of learning—my understanding, my mistakes, my curiosity, and my growth. Some code may be simple, unoptimized, or imperfect, and that is exactly the point. This repository is not meant for production or active development.
 
-Purpose
 
-📌 To preserve my early work in Computer Engineering
+- This repository is for archival and sentimental purposes only
 
-📌 To document my learning progress and mindset at this stage
+- No major updates or refactoring are expected
 
-📌 To serve as a personal memento when I become more skilled at coding
+- Code is kept in its original form to maintain authenticity
 
-📌 To remind myself how far I’ve come and how much I’ve learned
-
-Notes
-
-This repository is for archival and sentimental purposes only
-
-No major updates or refactoring are expected
-
-Code is kept in its original form to maintain authenticity
-
-Looking Forward
+<> Looking Forward <>
 
 Someday, when I look back at this repository with more experience and knowledge, I hope it reminds me:
 
@@ -30,4 +19,4 @@ how much effort it took
 
 and how growth comes from small, imperfect beginnings
 
-✨ This is a snapshot of my journey—not the destination.
+<> ✨ This is a snapshot of my journey—not the destination. <>
