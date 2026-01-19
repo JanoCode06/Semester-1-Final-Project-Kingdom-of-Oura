@@ -1,4 +1,4 @@
-This repository exists as a keepsake from my journey as a Computer Engineering (CoEng) student.
+This repository exists as a keepsake from my journey as a Computer Engineering (ComEng) student.
 
 The projects, code, and experiments here reflect where I was at this stage of learning—my understanding, my mistakes, my curiosity, and my growth. Some code may be simple, unoptimized, or imperfect, and that is exactly the point. This repository is not meant for production or active development.
 
