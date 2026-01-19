@@ -9,7 +9,7 @@ The projects, code, and experiments here reflect where I was at this stage of le
 
 - Code is kept in its original form to maintain authenticity
 
-<> Looking Forward <>
+</>Looking Forward</>
 
 Someday, when I look back at this repository with more experience and knowledge, I hope it reminds me:
 
@@ -19,4 +19,4 @@ how much effort it took
 
 and how growth comes from small, imperfect beginnings
 
-<> ✨ This is a snapshot of my journey—not the destination. <>
+</>✨ This is a snapshot of my journey—not the destination.</>
